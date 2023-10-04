@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @4FunkE
-- 👀 I’m interested in hiking, weightlifting, and nutrition
-- 🌱 I’m currently learning how to code. I am learning HTML CSS and JavaScript
-- 💞️ I’m looking to collaborate on anything to learn new skills of web development
-- 📫 How to reach me 4funkecodes@gmail.com
+### Hi there, I'm Emily Rose Funk, aka FunkE! 👋
+
+🌄 Exploring nature, 🏋️‍♀️ weightlifting, and 🍏 nutrition are my side passions.
+
+🚀 I'm diving into the world of Full Stack Development to craft web apps, mobile apps, and websites using the MERN Stack (MongoDB, Express, React, Node.js).
+
+💼 As an Art and Design Education graduate from Pratt Institute, I've honed my teaching, mentoring, and instructional skills. Now, I'm applying those skills to the world of coding.
+
+🤝 I'm open to collaborations to learn and grow in the web development realm. Let's build something amazing!
+
+📧 Reach me at: [4funkecodes@gmail.com](mailto:4funkecodes@gmail.com)
 
 <!---
 4FunkE/4FunkE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
